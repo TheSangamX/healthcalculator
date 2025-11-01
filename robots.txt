@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# High-priority pages for crawling
+Allow: /index.html
+Allow: /#bmi
+Allow: /#age
+Allow: /#blog
+Allow: /about.html
+Allow: /contact.html
+
+# Allow all images for better SEO
+Allow: /images/
+
+# Block unnecessary files
+Disallow: /Create folder structure__D__WEB.THESANGAMX_Health_.md
+Disallow: /Give me the top ranking keyworkd for enahancing th.md
+
+# Sitemap location
+Sitemap: https://thesangamx.github.io/healthcalculator/sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
