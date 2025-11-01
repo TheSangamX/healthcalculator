@@ -27,9 +27,10 @@ A comprehensive, responsive web application for calculating BMI (Body Mass Index
 
 ## 🚀 Live Demo
 
-Visit the live application: [Health Calculator Pro](https://thesangamx.github.io/healthcalculator/)
+- **GitHub Pages**: [Health Calculator Pro](https://thesangamx.github.io/healthcalculator/)
+- **Vercel**: [Health Calculator Pro](https://healthcalculator.vercel.app/) *(Coming Soon)*
 
-## 📱 Screenshots
+## 📸 Screenshots
 
 ### Desktop View
 ![BMI Calculator Desktop](images/bmi-hero.png)
@@ -65,5 +66,36 @@ Visit the live application: [Health Calculator Pro](https://thesangamx.github.io
 - BMI for Indians
 - Healthy BMI Range
 - Calculate Age from Date of Birth
+
+## 🚀 Deployment
+
+### GitHub Pages
+1. Push your code to GitHub
+2. Go to repository Settings → Pages
+3. Select "Deploy from a branch" → main branch
+4. Your site will be live at: `https://thesangamx.github.io/healthcalculator/`
+
+### Vercel Deployment
+1. **Quick Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TheSangamX/healthcalculator)
+
+2. **Manual Deployment**:
+   - Fork/Clone this repository
+   - Sign up at [Vercel.com](https://vercel.com)
+   - Import your GitHub repository
+   - Deploy automatically (no build configuration needed)
+   - Custom domain available
+
+3. **CLI Deployment**:
+   ```bash
+   npm i -g vercel
+   vercel --prod
+   ```
+
+### Performance Optimization
+- ✅ Static site generation
+- ✅ Image optimization
+- ✅ CDN distribution
+- ✅ SSL certificate
+- ✅ Global edge network
 
 ## 📁 Project Structure
