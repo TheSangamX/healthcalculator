@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+    <!-- Main Homepage - Primary Landing Page -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/bmi-hero.png</image:loc>
+            <image:title>BMI Calculator Online Free - How to Calculate BMI</image:title>
+            <image:caption>Free BMI calculator online tool for calculating body mass index with healthy BMI range</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/woman-bmi.png</image:loc>
+            <image:title>Woman Using BMI Calculator Online Free Tool</image:title>
+            <image:caption>Woman calculating BMI online with healthy weight status checker</image:caption>
+        </image:image>
+    </url>
+
+    <!-- BMI Calculator - High Traffic Keywords -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#bmi</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/bmi-categories.png</image:loc>
+            <image:title>BMI Categories Chart - Healthy BMI Range Normal BMI Range</image:title>
+            <image:caption>BMI categories showing underweight normal overweight obese classification ranges</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Age Calculator - High Traffic Keywords -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#age</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/age-celebration.png</image:loc>
+            <image:title>Age Calculator from Date of Birth - Calculate Age Online</image:title>
+            <image:caption>Age celebration milestone birthday calculator exact age years months days</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog Section - Content Marketing -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#blog</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/health-dashboard.png</image:loc>
+            <image:title>Health Dashboard BMI Age Calculator Blog</image:title>
+            <image:caption>Comprehensive health metrics tracking tool with BMI and age calculator insights</image:caption>
+        </image:image>
+    </url>
+
+    <!-- About Page -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/about.html</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Contact Page -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/contact.html</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Privacy Policy -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/privacy-policy.html</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Terms of Service -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/terms-of-service.html</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Disclaimer -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/disclaimer.html</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+    <!-- Virtual Pages for High-Traffic Keywords (Anchor Links) -->
+    
+    <!-- How to Calculate BMI - 165K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#how-to-calculate-bmi</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- BMI Calculator Online Free - 135K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#bmi-calculator-online-free</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Healthy BMI Range - 90K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#healthy-bmi-range</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Normal BMI Range - 75K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#normal-bmi-range</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- BMI Categories - 60K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#bmi-categories</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- BMI for Indians - 45K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#bmi-for-indians</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/india-health.png</image:loc>
+            <image:title>BMI for Indians Health Statistics</image:title>
+            <image:caption>BMI for Indians health statistics average BMI range healthy weight India population</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Calculate Age from Date of Birth - 110K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#calculate-age-from-date-of-birth</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Age Calculator Online - 95K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#age-calculator-online</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- How Old Am I Calculator - 80K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#how-old-am-i-calculator</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Age in Days Calculator - 35K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#age-in-days-calculator</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Birthday Calculator - 25K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#birthday-calculator</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/birthday-party.png</image:loc>
+            <image:title>Birthday Calculator Age Milestone</image:title>
+            <image:caption>Birthday celebration party age milestone calculator exact age years months days</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Body Mass Index Calculator - 70K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#body-mass-index-calculator</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- BMI Calculator for Women - 40K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#bmi-calculator-for-women</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- BMI Calculator for Men - 35K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#bmi-calculator-for-men</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/man-height-weight.png</image:loc>
+            <image:title>BMI Calculator for Men Height Weight</image:title>
+            <image:caption>Man measuring height weight BMI calculation male body composition health assessment</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Healthy Weight Calculator - 55K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#healthy-weight-calculator</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/healthy-result.png</image:loc>
+            <image:title>Healthy Weight Calculator Result</image:title>
+            <image:caption>Healthy BMI result normal weight range optimal health status indicator</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Weight Loss by BMI - 30K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#weight-loss-by-bmi</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/weight-loss.png</image:loc>
+            <image:title>Weight Loss Journey BMI Improvement</image:title>
+            <image:caption>Weight loss journey BMI improvement healthy lifestyle diet exercise plan</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Health Wellness - 50K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#health-wellness</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/health-wellness.png</image:loc>
+            <image:title>Health Wellness Lifestyle</image:title>
+            <image:caption>Health wellness lifestyle healthy living BMI management nutrition exercise balance</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Body Types Comparison - 20K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#body-types-comparison</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/body-types.png</image:loc>
+            <image:title>Body Types Comparison BMI Categories</image:title>
+            <image:caption>Body types comparison different BMI categories healthy normal overweight obese</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Health Consultation - 15K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#health-consultation</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/health-consultation.png</image:loc>
+            <image:title>Health Consultation Medical Professional</image:title>
+            <image:caption>Health consultation with medical professional discuss BMI results health advice</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Age Timeline - 12K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#age-timeline</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/age-timeline.png</image:loc>
+            <image:title>Age Timeline Life Stages</image:title>
+            <image:caption>Age timeline life stages milestones years months days age calculation chart</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Age Interface - 10K monthly searches -->
+    <url>
+        <loc>https://thesangamx.github.io/healthcalculator/#age-interface</loc>
+        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://thesangamx.github.io/healthcalculator/images/age-interface.png</image:loc>
+            <image:title>Age Calculator Interface Online Tool</image:title>
+            <image:caption>Age calculator interface online tool calculate exact age from date birth</image:caption>
+        </image:image>
+    </url>
+
+</urlset>
