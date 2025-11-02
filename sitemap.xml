@@ -1,323 +1,699 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
     <!-- Main Homepage - Primary Landing Page -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+        <mobile:mobile/>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/bmi-hero.png</image:loc>
-            <image:title>BMI Calculator Online Free - How to Calculate BMI</image:title>
-            <image:caption>Free BMI calculator online tool for calculating body mass index with healthy BMI range</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/bmi-hero.png</image:loc>
+            <image:title>BMI Calculator Online Free - How to Calculate BMI India 2024</image:title>
+            <image:caption>Free BMI calculator online tool for calculating body mass index with healthy BMI range for Indians - Most accurate BMI calculator 2024</image:caption>
         </image:image>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/woman-bmi.png</image:loc>
-            <image:title>Woman Using BMI Calculator Online Free Tool</image:title>
-            <image:caption>Woman calculating BMI online with healthy weight status checker</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/woman-bmi.png</image:loc>
+            <image:title>Woman Using BMI Calculator Online Free Tool India</image:title>
+            <image:caption>Indian woman calculating BMI online with healthy weight status checker - BMI calculator for women India</image:caption>
         </image:image>
-    </url>
-
-    <!-- BMI Calculator - High Traffic Keywords -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#bmi</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/bmi-categories.png</image:loc>
-            <image:title>BMI Categories Chart - Healthy BMI Range Normal BMI Range</image:title>
-            <image:caption>BMI categories showing underweight normal overweight obese classification ranges</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/age-celebration.png</image:loc>
+            <image:title>Age Calculator Online Free - Calculate Exact Age India</image:title>
+            <image:caption>Free age calculator online India - Calculate exact age in years months days from date of birth</image:caption>
         </image:image>
     </url>
 
-    <!-- Age Calculator - High Traffic Keywords -->
+    <!-- BMI Calculator - Ultra High Traffic Keywords -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#age</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/age-celebration.png</image:loc>
-            <image:title>Age Calculator from Date of Birth - Calculate Age Online</image:title>
-            <image:caption>Age celebration milestone birthday calculator exact age years months days</image:caption>
-        </image:image>
-    </url>
-
-    <!-- Blog Section - Content Marketing -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#blog</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/#bmi</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>daily</changefreq>
-        <priority>0.8</priority>
+        <priority>1.0</priority>
+        <mobile:mobile/>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/health-dashboard.png</image:loc>
-            <image:title>Health Dashboard BMI Age Calculator Blog</image:title>
-            <image:caption>Comprehensive health metrics tracking tool with BMI and age calculator insights</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/bmi-categories.png</image:loc>
+            <image:title>BMI Categories Chart India - Healthy BMI Range Normal BMI Range 2024</image:title>
+            <image:caption>BMI categories chart for Indians showing underweight normal overweight obese classification ranges - Updated 2024 BMI standards</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Age Calculator - Ultra High Traffic Keywords -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#age</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/age-celebration.png</image:loc>
+            <image:title>Age Calculator from Date of Birth India - Calculate Age Online Free 2024</image:title>
+            <image:caption>Age celebration milestone birthday calculator exact age years months days - Free age calculator India 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog Section - Content Marketing Hub -->
+    <url>
+        <loc>https://www.healthcalculator.fit/bmi-blog.html</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/health-dashboard.png</image:loc>
+            <image:title>BMI Blog India - Complete Health Guide 2024</image:title>
+            <image:caption>Comprehensive BMI blog with 5 detailed guides - BMI standards, healthy ranges, weight loss, age calculator - India health blog 2024</image:caption>
         </image:image>
     </url>
 
     <!-- About Page -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/about.html</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/about.html</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- Contact Page -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/contact.html</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/contact.html</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- Privacy Policy -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/privacy-policy.html</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/privacy-policy.html</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- Terms of Service -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/terms-of-service.html</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/terms-of-service.html</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- Disclaimer -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/disclaimer.html</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/disclaimer.html</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.4</priority>
+        <mobile:mobile/>
     </url>
 
-    <!-- Virtual Pages for High-Traffic Keywords (Anchor Links) -->
+    <!-- ========== BLOG CONTENT PAGES - HIGH VALUE SEO ========== -->
+    
+    <!-- Blog 1: BMI Standards for Indians -->
+    <url>
+        <loc>https://www.healthcalculator.fit/bmi-blog.html#bmi-standards-intro</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/india-health.png</image:loc>
+            <image:title>BMI Standards for Indians 2024 - Complete Guide</image:title>
+            <image:caption>Complete BMI standards guide for Indians - WHO BMI categories, Indian BMI ranges, health guidelines 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog 2: Healthy BMI Range Guide -->
+    <url>
+        <loc>https://www.healthcalculator.fit/bmi-blog.html#healthy-bmi-intro</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/healthy-result.png</image:loc>
+            <image:title>Healthy BMI Range Guide India 2024 - Normal BMI Chart</image:title>
+            <image:caption>Healthy BMI range guide for Indians - Normal BMI chart, ideal weight calculator, health tips 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog 3: How to Calculate BMI -->
+    <url>
+        <loc>https://www.healthcalculator.fit/bmi-blog.html#calculate-bmi-intro</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/bmi-hero.png</image:loc>
+            <image:title>How to Calculate BMI India 2024 - BMI Formula Calculator</image:title>
+            <image:caption>Learn how to calculate BMI step by step - BMI formula, calculator guide, examples for Indians 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog 4: Weight Loss by BMI -->
+    <url>
+        <loc>https://www.healthcalculator.fit/bmi-blog.html#weight-loss-intro</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/weight-loss.png</image:loc>
+            <image:title>Weight Loss by BMI India 2024 - Complete Diet Exercise Guide</image:title>
+            <image:caption>Weight loss guide by BMI category - Diet plans, exercise routines, success stories for Indians 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog 5: Age Calculator Online -->
+    <url>
+        <loc>https://www.healthcalculator.fit/bmi-blog.html#age-calculator-intro</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/age-celebration.png</image:loc>
+            <image:title>Age Calculator Online India 2024 - Calculate Exact Age Free</image:title>
+            <image:caption>Free age calculator online India - Calculate exact age from date of birth, age in days, birthday countdown 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- ========== ULTRA HIGH-TRAFFIC KEYWORDS - MEGA SEO BOOST ========== -->
     
     <!-- How to Calculate BMI - 165K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#how-to-calculate-bmi</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
+        <loc>https://www.healthcalculator.fit/#how-to-calculate-bmi</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.98</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- BMI Calculator Online Free - 135K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#bmi-calculator-online-free</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <!-- Healthy BMI Range - 90K monthly searches -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#healthy-bmi-range</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Normal BMI Range - 75K monthly searches -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#normal-bmi-range</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- BMI Categories - 60K monthly searches -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#bmi-categories</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- BMI for Indians - 45K monthly searches -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#bmi-for-indians</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/india-health.png</image:loc>
-            <image:title>BMI for Indians Health Statistics</image:title>
-            <image:caption>BMI for Indians health statistics average BMI range healthy weight India population</image:caption>
-        </image:image>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-online-free</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.98</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- Calculate Age from Date of Birth - 110K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#calculate-age-from-date-of-birth</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
+        <loc>https://www.healthcalculator.fit/#calculate-age-from-date-of-birth</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.97</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- Age Calculator Online - 95K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#age-calculator-online</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://www.healthcalculator.fit/#age-calculator-online</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.96</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Healthy BMI Range - 90K monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#healthy-bmi-range</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- How Old Am I Calculator - 80K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#how-old-am-i-calculator</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://www.healthcalculator.fit/#how-old-am-i-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.94</priority>
+        <mobile:mobile/>
     </url>
 
-    <!-- Age in Days Calculator - 35K monthly searches -->
+    <!-- Normal BMI Range - 75K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#age-in-days-calculator</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <!-- Birthday Calculator - 25K monthly searches -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#birthday-calculator</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-        <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/birthday-party.png</image:loc>
-            <image:title>Birthday Calculator Age Milestone</image:title>
-            <image:caption>Birthday celebration party age milestone calculator exact age years months days</image:caption>
-        </image:image>
+        <loc>https://www.healthcalculator.fit/#normal-bmi-range</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.93</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- Body Mass Index Calculator - 70K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#body-mass-index-calculator</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://www.healthcalculator.fit/#body-mass-index-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.92</priority>
+        <mobile:mobile/>
     </url>
 
-    <!-- BMI Calculator for Women - 40K monthly searches -->
+    <!-- BMI Categories - 60K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#bmi-calculator-for-women</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/#bmi-categories</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <!-- BMI Calculator for Men - 35K monthly searches -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#bmi-calculator-for-men</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-        <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/man-height-weight.png</image:loc>
-            <image:title>BMI Calculator for Men Height Weight</image:title>
-            <image:caption>Man measuring height weight BMI calculation male body composition health assessment</image:caption>
-        </image:image>
+        <priority>0.91</priority>
+        <mobile:mobile/>
     </url>
 
     <!-- Healthy Weight Calculator - 55K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#healthy-weight-calculator</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/#healthy-weight-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.90</priority>
+        <mobile:mobile/>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/healthy-result.png</image:loc>
-            <image:title>Healthy Weight Calculator Result</image:title>
-            <image:caption>Healthy BMI result normal weight range optimal health status indicator</image:caption>
-        </image:image>
-    </url>
-
-    <!-- Weight Loss by BMI - 30K monthly searches -->
-    <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#weight-loss-by-bmi</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-        <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/weight-loss.png</image:loc>
-            <image:title>Weight Loss Journey BMI Improvement</image:title>
-            <image:caption>Weight loss journey BMI improvement healthy lifestyle diet exercise plan</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/healthy-result.png</image:loc>
+            <image:title>Healthy Weight Calculator India 2024 - Ideal Weight BMI</image:title>
+            <image:caption>Healthy BMI result normal weight range optimal health status indicator for Indians 2024</image:caption>
         </image:image>
     </url>
 
     <!-- Health Wellness - 50K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#health-wellness</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/#health-wellness</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.89</priority>
+        <mobile:mobile/>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/health-wellness.png</image:loc>
-            <image:title>Health Wellness Lifestyle</image:title>
-            <image:caption>Health wellness lifestyle healthy living BMI management nutrition exercise balance</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/health-wellness.png</image:loc>
+            <image:title>Health Wellness Lifestyle India 2024</image:title>
+            <image:caption>Health wellness lifestyle healthy living BMI management nutrition exercise balance India 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- BMI for Indians - 45K monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-for-indians</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.88</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/india-health.png</image:loc>
+            <image:title>BMI for Indians Health Statistics 2024</image:title>
+            <image:caption>BMI for Indians health statistics average BMI range healthy weight India population 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- BMI Calculator for Women - 40K monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-for-women</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.87</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/woman-bmi.png</image:loc>
+            <image:title>BMI Calculator for Women India 2024 - Female BMI Chart</image:title>
+            <image:caption>BMI calculator for Indian women - Female BMI chart, healthy weight range for women India 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- ========== NEW MEGA TRAFFIC KEYWORDS - BILLION VIEWS TARGET ========== -->
+
+    <!-- BMI Calculator India - 200K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-india</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.99</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Free BMI Calculator - 180K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#free-bmi-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.99</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Chart India - 150K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-chart-india</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.98</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Age Calculator India - 120K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#age-calculator-india</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.98</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Online India - 100K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-online-india</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.97</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Ideal Weight Calculator India - 85K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#ideal-weight-calculator-india</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.96</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator for Men India - 70K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-men-india</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/man-height-weight.png</image:loc>
+            <image:title>BMI Calculator for Men India 2024 - Male BMI Chart</image:title>
+            <image:caption>BMI calculator for Indian men - Male BMI chart, healthy weight range for men India 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Weight Loss Calculator BMI - 65K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#weight-loss-calculator-bmi</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.94</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Metric - 60K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-metric</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.93</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator kg cm - 55K+ monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-kg-cm</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.92</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- ========== LONG-TAIL HIGH-CONVERTING KEYWORDS ========== -->
+
+    <!-- Age in Days Calculator - 35K monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#age-in-days-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Birthday Calculator - 25K monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#birthday-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.84</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/birthday-party.png</image:loc>
+            <image:title>Birthday Calculator Age Milestone India 2024</image:title>
+            <image:caption>Birthday celebration party age milestone calculator exact age years months days India 2024</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Weight Loss by BMI - 30K monthly searches -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#weight-loss-by-bmi</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.83</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/weight-loss.png</image:loc>
+            <image:title>Weight Loss Journey BMI Improvement India 2024</image:title>
+            <image:caption>Weight loss journey BMI improvement healthy lifestyle diet exercise plan India 2024</image:caption>
         </image:image>
     </url>
 
     <!-- Body Types Comparison - 20K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#body-types-comparison</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/#body-types-comparison</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.82</priority>
+        <mobile:mobile/>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/body-types.png</image:loc>
-            <image:title>Body Types Comparison BMI Categories</image:title>
-            <image:caption>Body types comparison different BMI categories healthy normal overweight obese</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/body-types.png</image:loc>
+            <image:title>Body Types Comparison BMI Categories India 2024</image:title>
+            <image:caption>Body types comparison different BMI categories healthy normal overweight obese India 2024</image:caption>
         </image:image>
     </url>
 
     <!-- Health Consultation - 15K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#health-consultation</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/#health-consultation</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.81</priority>
+        <mobile:mobile/>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/health-consultation.png</image:loc>
-            <image:title>Health Consultation Medical Professional</image:title>
-            <image:caption>Health consultation with medical professional discuss BMI results health advice</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/health-consultation.png</image:loc>
+            <image:title>Health Consultation Medical Professional India 2024</image:title>
+            <image:caption>Health consultation with medical professional discuss BMI results health advice India 2024</image:caption>
         </image:image>
     </url>
 
     <!-- Age Timeline - 12K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#age-timeline</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/#age-timeline</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.80</priority>
+        <mobile:mobile/>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/age-timeline.png</image:loc>
-            <image:title>Age Timeline Life Stages</image:title>
-            <image:caption>Age timeline life stages milestones years months days age calculation chart</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/age-timeline.png</image:loc>
+            <image:title>Age Timeline Life Stages India 2024</image:title>
+            <image:caption>Age timeline life stages milestones years months days age calculation chart India 2024</image:caption>
         </image:image>
     </url>
 
     <!-- Age Interface - 10K monthly searches -->
     <url>
-        <loc>https://thesangamx.github.io/healthcalculator/#age-interface</loc>
-        <lastmod>2024-01-15T10:00:00+00:00</lastmod>
+        <loc>https://www.healthcalculator.fit/#age-interface</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.79</priority>
+        <mobile:mobile/>
         <image:image>
-            <image:loc>https://thesangamx.github.io/healthcalculator/images/age-interface.png</image:loc>
-            <image:title>Age Calculator Interface Online Tool</image:title>
-            <image:caption>Age calculator interface online tool calculate exact age from date birth</image:caption>
+            <image:loc>https://raw.githubusercontent.com/TheSangamX/healthcalculator/main/images/age-interface.png</image:loc>
+            <image:title>Age Calculator Interface Online Tool India 2024</image:title>
+            <image:caption>Age calculator interface online tool calculate exact age from date birth India 2024</image:caption>
         </image:image>
     </url>
 
+    <!-- ========== TRENDING & EMERGING KEYWORDS 2024 ========== -->
+
+    <!-- BMI Calculator 2024 - Trending -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-2024</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Health Calculator India - Trending -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#health-calculator-india</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.94</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Test Online - Trending -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-test-online</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.93</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Free Health Calculator - Trending -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#free-health-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.92</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Check Online India - Trending -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-check-online-india</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.91</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Age Calculator Free - Trending -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#age-calculator-free</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.90</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Mobile - Mobile-First -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-mobile</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.89</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Quick BMI Calculator - Fast Results -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#quick-bmi-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.88</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Instant Age Calculator - Fast Results -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#instant-age-calculator</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.87</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Hindi - Language Targeting -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-hindi</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.86</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- ========== LOCATION-BASED KEYWORDS FOR INDIA ========== -->
+
+    <!-- BMI Calculator Mumbai -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-mumbai</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Delhi -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-delhi</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Bangalore -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-bangalore</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Chennai -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-chennai</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Hyderabad -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-hyderabad</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- BMI Calculator Pune -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#bmi-calculator-pune</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- ========== SEASONAL & SPECIAL KEYWORDS ========== -->
+
+    <!-- New Year Health Goals -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#new-year-health-goals</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.78</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Summer Body BMI -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#summer-body-bmi</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.77</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Wedding Weight Loss BMI -->
+    <url>
+        <loc>https://www.healthcalculator.fit/#wedding-weight-loss-bmi</loc>
+        <lastmod>2024-12-19T10:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.76</priority>
+        <mobile:mobile/>
+    </url>
 </urlset>
