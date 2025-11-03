@@ -1,26 +1,99 @@
+# Advanced SEO Robots.txt for Maximum Traffic Generation
+# Optimized for Health Calculator - BMI, Age, Weight Loss Tools
+
 User-agent: *
 Allow: /
 
-# Allow important pages
+# PRIORITY CRAWLING - High-traffic pages first
 Allow: /index.html
-Allow: /bmi-blog.html
+Allow: /#bmi-calculator
+Allow: /#age-calculator
+Allow: /#weight-loss-calculator
+Allow: /#healthy-weight-calculator
+Allow: /#bmi
+Allow: /#age
+Allow: /#blog
+
+# STATIC PAGES - Trust & Authority Building
 Allow: /about.html
 Allow: /contact.html
 Allow: /privacy-policy.html
 Allow: /terms-of-service.html
 Allow: /disclaimer.html
 
-# Allow all images
+# BLOG CONTENT - SEO Traffic Magnets
+Allow: /bmi-blog.html
+Allow: /age-calculator-online-blog.md
+Allow: /bmi-indians-blog.md
+Allow: /how-calculate-bmi-blog.md
+Allow: /weight-loss-bmi-blog.md
+
+# IMAGES & MEDIA - Visual SEO Boost
 Allow: /images/
+Allow: /images/*.png
+Allow: /images/*.jpg
+Allow: /images/*.jpeg
+Allow: /images/*.webp
+Allow: /images/*.svg
 
-# Block unnecessary files
-Disallow: /*.md
-Disallow: /*.txt
-Disallow: /node_modules/
-Disallow: /.git/
+# SPECIFIC HIGH-VALUE IMAGES
+Allow: /images/bmi-hero.png
+Allow: /images/health-dashboard.png
+Allow: /images/india-health.png
+Allow: /images/weight-loss.png
+Allow: /images/age-celebration.png
+Allow: /images/healthy-result.png
 
-# Sitemap location
-Sitemap: https://www.healthcalculator.fit/sitemap.xml
+# BLOCK LOW-VALUE/DEVELOPMENT FILES
+Disallow: /Create folder structure__D__WEB.THESANGAMX_Health_.md
+Disallow: /Give me the top ranking keyworkd for enahancing th.md
+Disallow: /*.md$
+Disallow: /temp/
+Disallow: /backup/
+Disallow: /dev/
+Disallow: /test/
 
-# Crawl delay (1 second is safe)
+# GOOGLEBOT SPECIFIC OPTIMIZATION
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0.5
+
+# BINGBOT OPTIMIZATION
+User-agent: Bingbot
+Allow: /
 Crawl-delay: 1
+
+# MOBILE GOOGLEBOT
+User-agent: Googlebot-Mobile
+Allow: /
+Crawl-delay: 0.5
+
+# IMAGE GOOGLEBOT
+User-agent: Googlebot-Image
+Allow: /images/
+Crawl-delay: 0.2
+
+# SOCIAL MEDIA BOTS
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# SITEMAP LOCATIONS - Multiple for Maximum Coverage
+Sitemap: https://www.healthcalculator.fit/sitemap.xml
+Sitemap: https://www.healthcalculator.fit/sitemap-images.xml
+Sitemap: https://www.healthcalculator.fit/sitemap-news.xml
+
+# CRAWL OPTIMIZATION
+# Faster crawling for major search engines
+Crawl-delay: 0.5
+
+# HOST DECLARATION
+Host: https://www.healthcalculator.fit
