@@ -1,23 +1,26 @@
 User-agent: *
 Allow: /
 
-# High-priority pages for crawling
+# Allow important pages
 Allow: /index.html
-Allow: /#bmi
-Allow: /#age
-Allow: /#blog
+Allow: /bmi-blog.html
 Allow: /about.html
 Allow: /contact.html
+Allow: /privacy-policy.html
+Allow: /terms-of-service.html
+Allow: /disclaimer.html
 
-# Allow all images for better SEO
+# Allow all images
 Allow: /images/
 
 # Block unnecessary files
-Disallow: /Create folder structure__D__WEB.THESANGAMX_Health_.md
-Disallow: /Give me the top ranking keyworkd for enahancing th.md
+Disallow: /*.md
+Disallow: /*.txt
+Disallow: /node_modules/
+Disallow: /.git/
 
 # Sitemap location
 Sitemap: https://www.healthcalculator.fit/sitemap.xml
 
-# Crawl-delay for better server performance
+# Crawl delay (1 second is safe)
 Crawl-delay: 1
